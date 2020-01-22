@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 21 21:46:07 COT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-cb24-8826-00000575a098 
+on database directory C:\Users\2020\Documents\NetBeansProjects\Library-Assistant-master\database with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/2020/Documents/NetBeansProjects/Library-Assistant-master/dist/run763874106/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Users\2020\Documents\NetBeansProjects\Library-Assistant-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
